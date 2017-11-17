@@ -129,7 +129,7 @@ group :development do
   gem "binding_of_caller"
   gem 'traceroute'
   gem 'brakeman', :require => false
-  gem 'rubocop', '~> 0.47.1', require: false
+  # gem 'rubocop', '~> 0.47.1', require: false
   gem "rubycritic", :require => false
 end
 
